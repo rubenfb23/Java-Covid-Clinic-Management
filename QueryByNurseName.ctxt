@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=QueryByNurseName
+comment1.params=ref
+comment1.target=QueryByNurseName(Welcome)
+comment2.params=
+comment2.target=java.awt.Insets\ getInsets()
+numComments=3

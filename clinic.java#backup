@@ -1,0 +1,19 @@
+import java.awt.*;
+import java.awt.evet.*;
+
+class clinic extends Frame
+{
+    Label l1,l2;
+    TextField tf1,tf2;
+    Button b1,b2;
+    
+    public clinic()
+    {
+        l1=new Label("User Name");
+        l2=new Label("Password");
+        
+        tf1=new TextField(20);
+        tf2=new TextField(20);
+        
+    }
+}

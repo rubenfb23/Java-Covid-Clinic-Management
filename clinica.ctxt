@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=clinica
+comment1.params=
+comment1.target=clinica()
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=java.awt.Insets\ getInsets()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

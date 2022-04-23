@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IssolatePatient
+comment1.params=ref
+comment1.target=IssolatePatient(Welcome)
+comment2.params=dt
+comment2.target=int\ findDay(java.lang.String)
+numComments=3
