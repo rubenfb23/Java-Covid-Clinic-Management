@@ -5,6 +5,6 @@ Hope you'll like it!
 ![enter image description here](https://img.devrant.com/devrant/rant/r_2320300_8CgA3.jpg)
 
 # This is how it looks like!
-(https://ibb.co/PMYPKDj)
-(https://ibb.co/6tyyrQ6)
-(https://ibb.co/BPRnFXr)
+https://i.ibb.co/Lg00YK4/Captura-de-pantalla-2022-04-23-111326.png
+https://i.ibb.co/26BZHDs/Captura-de-pantalla-2022-04-23-111337.png
+https://i.ibb.co/w7LPVcg/Captura-de-pantalla-2022-04-23-111355.png
