@@ -7,4 +7,6 @@ Hope you'll like it!
 # This is how it looks like!
 ![](https://i.ibb.co/Lg00YK4/Captura-de-pantalla-2022-04-23-111326.png)
 ![](https://i.ibb.co/26BZHDs/Captura-de-pantalla-2022-04-23-111337.png)
+
+# Class Diagram from BlueJ
 ![](https://i.ibb.co/w7LPVcg/Captura-de-pantalla-2022-04-23-111355.png)
